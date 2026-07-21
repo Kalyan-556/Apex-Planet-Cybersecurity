@@ -121,6 +121,5 @@ Header always set Content-Security-Policy "default-src 'self'; script-src 'self'
 ---
 
 ## 🎥 Task 3 Video Demonstration
-> [!TIP]
 > LinkedIn video presentation showcasing SQLi, XSS, CSRF, and File Inclusion exploitation and mitigation:
 > * **LinkedIn Video Exploitation Demo:** [Task 3 - Web Application Security](https://www.linkedin.com/posts/kalyan-katta-6b491338b_cybersecurity-ethicalhacking-websecurity-activity-7485343440059318272-7A4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAQxSgBWlNdbkRaK_lHTiAJO0x0AIxoNAo)
