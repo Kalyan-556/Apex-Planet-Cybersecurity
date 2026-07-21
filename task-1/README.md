@@ -84,7 +84,5 @@ The following tools were initialized and tested on the Host-Only network to ensu
 ---
 
 ## 🎥 Task 1 Video Demonstration
-> [!TIP]
-> Paste your LinkedIn video link or Google Drive link below once uploaded:
-> * **LinkedIn Video Walkthrough:** `[Link to LinkedIn Video]`
-> * **Alternative Drive Video:** `[Link to Google Drive / YouTube]`
+> * **LinkedIn Video Walkthrough:** `https://www.linkedin.com/posts/kalyan-katta-6b491338b_cybersecurity-ethicalhacking-kalilinux-ugcPost-7485335576527769600-K4uW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAQxSgBWlNdbkRaK_lHTiAJO0x0AIxoNAo[Link to LinkedIn Video]`
+
