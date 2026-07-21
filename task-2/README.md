@@ -110,6 +110,5 @@ sudo iptables -A INPUT -p tcp --dport 80 -j ACCEPT
 
 ## 🎥 Task 2 Video Demonstration
 > [!TIP]
-> Paste your LinkedIn video link or Google Drive link below once uploaded:
-> * **LinkedIn Video Scan Demo:** `[Link to LinkedIn Video]`
-> * **Alternative Drive Video:** `[Link to Google Drive / YouTube]`
+> LinkedIn video presentation showcasing network reconnaissance, port scanning, and Wireshark packet capture analysis:
+> * **LinkedIn Video Scan Demo:** [Task 2 - Network Security & Scanning](https://www.linkedin.com/posts/kalyan-katta-6b491338b_cybersecurity-ethicalhacking-networksecurity-activity-7485341373102153729-dDi3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAQxSgBWlNdbkRaK_lHTiAJO0x0AIxoNAo)

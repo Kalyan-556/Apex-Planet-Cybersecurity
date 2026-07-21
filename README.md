@@ -26,11 +26,11 @@ This repository is split into 5 core milestones, mapping to the 60-day syllabus.
 
 | Milestone | Directory / Path | Focus Area | Core Deliverables | Video Demos |
 | :--- | :--- | :--- | :--- | :--- |
-| **Task 1** | [📁 task-1](./task-1) | **Foundations of Cybersecurity** | Hacking Lab Architecture, OpenSSL Cryptography, CLI Command cheat-sheet | [🔗 Watch Walkthrough](#) |
-| **Task 2** | [📁 task-2](./task-2) | **Network Security & Scanning** | Active/Passive Recon, Nmap Scanning Report, Nessus scans, Wireshark, iptables | [🔗 Watch Demo](#) |
-| **Task 3** | [📁 task-3](./task-3) | **Web Application Security** | OWASP Top 10 Exploits (SQLi, XSS, CSRF, LFI/RFI), Burp Suite, Web Hardening | [🔗 Watch Demo](#) |
-| **Task 4** | [📁 task-4](./task-4) | **Exploitation & System Security** | PT Methodology, Metasploit shell, Hydra SSH, John the Ripper, Hardening Checklists | [🔗 Watch Demo](#) |
-| **Task 5** | [📁 task-5](./task-5) | **Capstone Project & Incident Response** | Web App Vulnerability Assessment, Incident Response containment plan, Executive Report | [🔗 Watch Final Demo](#) |
+| **Task 1** | [📁 task-1](./task-1) | **Foundations of Cybersecurity** | Hacking Lab Architecture, OpenSSL Cryptography, CLI Command cheat-sheet | [🔗 Watch Walkthrough](https://www.linkedin.com/posts/kalyan-katta-6b491338b_cybersecurity-ethicalhacking-kalilinux-activity-7485335821219233792-2Oj_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAQxSgBWlNdbkRaK_lHTiAJO0x0AIxoNAo) |
+| **Task 2** | [📁 task-2](./task-2) | **Network Security & Scanning** | Active/Passive Recon, Nmap Scanning Report, Nessus scans, Wireshark, iptables | [🔗 Watch Demo](https://www.linkedin.com/posts/kalyan-katta-6b491338b_cybersecurity-ethicalhacking-networksecurity-activity-7485341373102153729-dDi3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAQxSgBWlNdbkRaK_lHTiAJO0x0AIxoNAo) |
+| **Task 3** | [📁 task-3](./task-3) | **Web Application Security** | OWASP Top 10 Exploits (SQLi, XSS, CSRF, LFI/RFI), Burp Suite, Web Hardening | [🔗 Watch Demo](https://www.linkedin.com/posts/kalyan-katta-6b491338b_cybersecurity-ethicalhacking-websecurity-activity-7485343440059318272-7A4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAQxSgBWlNdbkRaK_lHTiAJO0x0AIxoNAo) |
+| **Task 4** | [📁 task-4](./task-4) | **Exploitation & System Security** | PT Methodology, Metasploit shell, Hydra SSH, John the Ripper, Hardening Checklists | [🔗 Watch Demo](https://www.linkedin.com/posts/kalyan-katta-6b491338b_cybersecurity-ethicalhacking-penetrationtesting-activity-7485345491510181888-fUAh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAQxSgBWlNdbkRaK_lHTiAJO0x0AIxoNAo) |
+| **Task 5** | [📁 task-5](./task-5) | **Capstone Project & Incident Response** | Web App Vulnerability Assessment, Incident Response containment plan, Executive Report | [🔗 Watch Final Demo](https://www.linkedin.com/posts/kalyan-katta-6b491338b_cybersecurity-ethicalhacking-capstoneproject-activity-7485346451292745729-b4rA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAQxSgBWlNdbkRaK_lHTiAJO0x0AIxoNAo) |
 
 ---
 

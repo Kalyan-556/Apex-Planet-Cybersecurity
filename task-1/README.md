@@ -84,5 +84,6 @@ The following tools were initialized and tested on the Host-Only network to ensu
 ---
 
 ## 🎥 Task 1 Video Demonstration
-> * **LinkedIn Video Walkthrough:** `https://www.linkedin.com/posts/kalyan-katta-6b491338b_cybersecurity-ethicalhacking-kalilinux-ugcPost-7485335576527769600-K4uW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAQxSgBWlNdbkRaK_lHTiAJO0x0AIxoNAo[Link to LinkedIn Video]`
-
+> [!TIP]
+> LinkedIn video presentation showcasing the lab environment setup and cryptography:
+> * **LinkedIn Video Walkthrough:** [Task 1 - Hacking Lab & Cryptography](https://www.linkedin.com/posts/kalyan-katta-6b491338b_cybersecurity-ethicalhacking-kalilinux-activity-7485335821219233792-2Oj_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAQxSgBWlNdbkRaK_lHTiAJO0x0AIxoNAo)

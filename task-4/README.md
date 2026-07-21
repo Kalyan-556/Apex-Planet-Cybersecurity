@@ -103,6 +103,5 @@ john --show system_hashes.txt
 
 ## 🎥 Task 4 Video Demonstration
 > [!TIP]
-> Paste your LinkedIn video link or Google Drive link below once uploaded:
-> * **LinkedIn Video Exploitation Demo:** `[Link to LinkedIn Video]`
-> * **Alternative Drive Video:** `[Link to Google Drive / YouTube]`
+> LinkedIn video presentation showcasing Metasploit exploitation, reverse shell post-exploitation, Hydra brute-forcing, and John the Ripper hash cracking:
+> * **LinkedIn Video Exploitation Demo:** [Task 4 - Exploitation & System Security](https://www.linkedin.com/posts/kalyan-katta-6b491338b_cybersecurity-ethicalhacking-penetrationtesting-activity-7485345491510181888-fUAh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAQxSgBWlNdbkRaK_lHTiAJO0x0AIxoNAo)
