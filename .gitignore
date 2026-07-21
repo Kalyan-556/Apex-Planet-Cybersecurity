@@ -1,0 +1,23 @@
+# Exclude large video files (exceeds GitHub's 100MB upload limit)
+*.mp4
+*.MP4
+*.mkv
+*.avi
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and Project metadata
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Network packet captures & scanner dumps
+*.pcap
+*.pcapng
+*.nessus
+*.xml
+*.log
