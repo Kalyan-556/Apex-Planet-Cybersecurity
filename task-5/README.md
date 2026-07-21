@@ -68,6 +68,5 @@ An operational Incident Response workflow has been designed to outline immediate
 ---
 
 ## 🎥 Task 5 Final Video Presentation
-> [!TIP]
 > LinkedIn video presentation showcasing the final Capstone Project Web Penetration Test Report and Incident Response plan:
 > * **LinkedIn Final Presentation Video:** [Task 5 - Capstone & Incident Response](https://www.linkedin.com/posts/kalyan-katta-6b491338b_cybersecurity-ethicalhacking-capstoneproject-activity-7485346451292745729-b4rA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAQxSgBWlNdbkRaK_lHTiAJO0x0AIxoNAo)
